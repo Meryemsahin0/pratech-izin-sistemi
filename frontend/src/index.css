@@ -11,7 +11,7 @@
   
   /* Metin Renkleri */
   --text-primary: #FF007A;   /* ANA YAZILAR KOYU PEMBE OLSUN DEMİŞTİN */
-  --text-secondary: #FFFFFF; /* Yardımcı yazılar beyaz kalsın ki okunsun */
+  --text-secondary: #FF007A; /* Yardımcı yazılar beyaz kalsın ki okunsun */
   --text-muted: #80003D;     /* Silik yazılar koyu pembe */
   
   /* Form Elemanları (Doldurman gereken yerler) */

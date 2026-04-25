@@ -1,12 +1,12 @@
 Pratech — İzin Yönetim Sistemi (V1.0)
 
-ÇALIŞTIRMA
-Backend Hazırlığı
+### 1. Backend Hazırlığı
+Backend tarafında veriler `db.json` üzerinde tutuluyor.
 
-Backend tarafında veriler db.json üzerinde tutuluyor.
+```bash
 cd backend
 npm install
-npm run dev  # nodemon ile auto-reload aktif olur
+npm run dev
 Not: API varsayılan olarak http://localhost:3001 üzerinden hizmet verir.
 
 Arayüzü ayağa kaldırmak için ayrı bir terminal sekmesi kullanın:

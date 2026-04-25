@@ -7,7 +7,7 @@ Backend tarafında veriler `db.json` üzerinde tutuluyor.
 cd backend
 npm install
 npm run dev
-Not: API varsayılan olarak http://localhost:3001/izinler üzerinden hizmet verir.
+Not: API varsayılan olarak http://localhost:3001 üzerinden hizmet verir.
 
 Arayüzü ayağa kaldırmak için ayrı bir terminal sekmesi kullanın:
 cd frontend

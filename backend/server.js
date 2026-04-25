@@ -107,7 +107,7 @@ app.get('/', (req, res) => {
     message: "Pratech İzin Yönetim Sistemi API",
     status: "Active",
     version: "1.0.0",
-    endpoints: ["/izinler", "/izin-talep", "/izin-durum/:id"]
+    endpoints: ["/izinler"]
   });
 });
 app.listen(PORT, () => {

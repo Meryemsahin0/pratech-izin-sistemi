@@ -1,3 +1,26 @@
 {
-  "izinler": []
+  "izinler": [
+    {
+      "id": "fb660a90-a64c-4dd0-b948-5f0e00d1f642",
+      "adSoyad": "meryem",
+      "izinTuru": "Yıllık İzin",
+      "baslangicTarihi": "2004-12-19",
+      "bitisTarihi": "2004-12-20",
+      "aciklama": "weewr",
+      "durum": "Onaylandı",
+      "olusturmaTarihi": "2026-04-25T18:21:31.723Z",
+      "guncellenmeTarihi": "2026-04-25T18:24:31.074Z"
+    },
+    {
+      "id": "6e9578f3-b992-4085-bf5c-4c00444a107b",
+      "adSoyad": "Ahmet şahin",
+      "izinTuru": "Sağlık İzni",
+      "baslangicTarihi": "2026-04-23",
+      "bitisTarihi": "2026-05-15",
+      "aciklama": "Ameliyat",
+      "durum": "Reddedildi",
+      "olusturmaTarihi": "2026-04-25T18:24:17.403Z",
+      "guncellenmeTarihi": "2026-04-25T18:24:27.449Z"
+    }
+  ]
 }

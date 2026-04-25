@@ -1,5 +1,5 @@
 Pratech — İzin Yönetim Sistemi (V1.0)
-***************************************************************************************************
+
 ÇALIŞTIRMA
 Backend Hazırlığı
 
@@ -14,7 +14,6 @@ cd frontend
 npm install
 npm start
 Uygulama otomatik olarak http://localhost:3000 adresinde açılacaktır.
-****************************************************************************************************************
 
 
 Şirket içi izin süreçlerini dijitalleştirmek için geliştirdiğim, personelin talep oluşturabildiği, yöneticinin ise bu talepleri tek bir panelden yönetebildiği (Onay/Red) pratik bir web modülü.
